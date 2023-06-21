@@ -8,3 +8,6 @@ int _isalpha(int c);
 int print_sign(int n);
 int _abs(int);
 int print_last_digit(int);
+int print_time(char* c);
+void jack_bauer(void);
+void iterator( char *c, int _h, int _hh, int _m, int _mm);
