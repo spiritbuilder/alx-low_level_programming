@@ -11,3 +11,6 @@ int print_last_digit(int);
 int print_time(char* c);
 void jack_bauer(void);
 void iterator( char *c, int _h, int _hh, int _m, int _mm);
+void print(char *c, char *d);
+char * convert(int c);
+void times_table(void);
